@@ -10,4 +10,5 @@ Ear molding therapy is a nonsurgical technique to correct certain congenital aur
 ![image](https://github.com/user-attachments/assets/865686c2-6f35-4ca0-8bcf-f0baccc62353)
 
 ## Full paper
-Hallac, R.R., Jackson, S.A., Grant, J. et al. Assessing outcomes of ear molding therapy by health care providers and convolutional neural network. Sci Rep 11, 17875 (2021). https://doi.org/10.1038/s41598-021-97310-7
+1. Hallac RR, Lee J, Pressler M, Seaward JR, Kane AA. Identifying Ear Abnormality from 2D Photographs Using Convolutional Neural Networks. Sci Rep. 2019 Dec 3;9(1):18198. doi: 10.1038/s41598-019-54779-7. PubMed PMID: 31796839; PubMed Central PMCID: PMC6890688.
+2. Hallac RR, Jackson SA, Grant J, Fisher K, Scheiwe S, Wetz E, Perez J, Lee J, Chitta K, Seaward JR, Kane AA. Assessing outcomes of ear molding therapy by health care providers and convolutional neural network. Sci Rep. 2021 Sep 9;11(1):17875. doi: 10.1038/s41598-021-97310-7. PubMed PMID: 34504194; PubMed Central PMCID: PMC8429730.
